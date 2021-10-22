@@ -84,6 +84,5 @@ window.addEventListener('scroll', () => {
 
 
 // On Load
-setTimeout(() => {
   getPhotos();
-}, 2000);
+
